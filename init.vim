@@ -1,7 +1,7 @@
 "Source CoC configuration file
-source C:\Users\amanp\AppData\Local\nvim\plug-config\coc.vim
+source ~\Appdata\Local\nvim\plug-config\coc.vim
 "Source onedark colorscheme configuration file
-source C:\Users\amanp\AppData\Local\nvim\themes\onedark.vim 
+source ~\AppData\Local\nvim\themes\onedark.vim 
 
 syntax enable 
 set number
